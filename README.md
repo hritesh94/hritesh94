@@ -26,3 +26,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hritesh94&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://quine.sh/profile/hritesh94"><img src="https://stats.quine.sh/hritesh94/github" alt="hritesh94's GitHub stats" width="840px"></a>
