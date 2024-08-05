@@ -3,7 +3,7 @@
 
 ## Hello this is Hritesh Goldar
 
-- Currently, I am a second year student at Heritage Institute Of Technology Kolkata
+- Currently, I am a 4th year student at Heritage Institute Of Technology Kolkata
 - Currently learning Full Stack Web Development,and UI/UX design
 
 ## Tech Stacks
