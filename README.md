@@ -131,7 +131,7 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 
 I built a dynamic Valorant stats card using a custom API deployed on Vercel.  
 It fetches player stats and renders them as a shareable card.
-![My Valorant Card](https://valorant-tracker-nu.vercel.app/api/card?name=YOURNAME&tag=YOURTAG&region=ap)
+![My Valorant Card](https://valorant-tracker-nu.vercel.app/api/card?name=noobshooter&tag=2169&region=ap)
 
 <br/><br/>
 
