@@ -1,29 +1,46 @@
 [![@hritesh's Holopin board](https://holopin.me/hritesh)](https://holopin.io/@hritesh)
 
 
-## Hello this is Hritesh Goldar
+# Hi, I'm Hritesh Goldar 👋
 
-- Currently, I am a 4th year student at Heritage Institute Of Technology Kolkata
-- Currently learning Full Stack Web Development,and UI/UX design
+**B.Tech ECE** @ Heritage Institute of Technology, Kolkata (2021–2025)
 
-## Tech Stacks
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/stickers/344/c--v1.png" alt="C" width="40"/></a>
+Aspiring roboticist with a focus on building affordable, open-source robotics solutions. Interested in continual learning for AI, robotic manipulation, and embedded systems.
 
-<a href="https://html.com"><img src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/344/css3.png" alt="CSS" width="40"/></a>
-<a href="https://www.javascript.com"><img src="https://img.icons8.com/color/344/javascript.png" alt="JavaScript" width="40"/></a>
-<a href="https://www.figma.com"><img src="https://img.icons8.com/color/344/figma--v1.png" alt="Figma" width="40"/></a>
-<a href="https://git-scm.com"><img src="https://img.icons8.com/color/344/git.png" alt="Git" width="40"/></a>
+---
 
-<a href="https://mongoosejs.com/"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="100"/></a>
+### 🔧 What I'm Working On
 
-<a href="https://www.mongodb.com/"><img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="mongoDB"  width="100"/></a>
-<a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="node.js"  width="100"/></a>
-<a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3K-0hD8O4jYTq08n2QRjl5JCQaiVMXB5vHlxmDIfRE5e-vbD1bGg5GB5trDgEar29OU&usqp=CAU" alt="express.js"  width="100"/></a>
+- 🤖 Built a **5-DOF robotic arm** with gripper — 3D printed, Arduino-driven
+- 🔬 Independently studied **GRACE & Key-Value Bottleneck** continual learning frameworks — reproduced experiments, wrote a 47-page report, and proposed a novel double-layer meta-key architecture
+- 💡 Engineered a **laser-based wireless communication system** (Li-Fi prototype) using ESP8266
+- 📡 Researched **OFDM/PAPR reduction** techniques for wireless communication
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritesh94)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hritesh94&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**Robotics & Embedded:** ROS 2 · Inverse Kinematics · Arduino · ESP8266 · Servo Control
 
-<a href="https://quine.sh/profile/hritesh94"><img src="https://stats.quine.sh/hritesh94/github" alt="hritesh94's GitHub stats" width="840px"></a>
+**Languages:** C · C++ · Python · JavaScript · TypeScript
+
+**Web Development:** React.js · Next.js · Node.js · Express · MongoDB · Tailwind CSS · Supabase · Firebase
+
+**Tools:** Git · Weights & Biases · Arduino IDE
+
+### 📌 Pinned Repositories
+
+> Make sure to pin these repos: **GRACE**, **experiments_discrete_key_value_bottleneck**, **Dev Overflow**, **The Wild Oasis**, and your **laser communication** project. Remove this note after pinning.
+
+---
+
+### 📊 GitHub Stats
+
+[![Hritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritesh94&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hritesh94&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hritesh-goldar-a6852521a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hritesh94.4@gmail.com)
