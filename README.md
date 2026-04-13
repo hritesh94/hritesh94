@@ -92,7 +92,30 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 | 🔑 | [**Key-Value Bottleneck**](https://github.com/hritesh94/experiments_discrete_key_value_bottleneck) | Reproduced KVB toy experiments, proposed novel double-layer meta-key architecture |
 | 💡 | **Laser Communication** | Li-Fi prototype — ESP8266, laser module & photodiode for optical data transfer |
 | 🌐 | **Dev Overflow** | Full-stack Q&A forum — Next.js, Firebase auth, MongoDB, real-time updates |
-| 🎮 | [**Valorant Stats Card**](https://github.com/hritesh94/valorant-stats-card) | Serverless SVG card generator — Vercel API, dynamic rank-based theming |
+
+</div>
+
+---
+
+### 🧪 Fun Build: Dynamic SVG Stats Card
+
+<div align="center">
+
+*Built a serverless API that generates real-time SVG stat cards with rank-based color theming — just for fun.*
+
+<a href="https://github.com/hritesh94/valorant-stats-card">
+<img src="https://valorant-tracker-nu.vercel.app/api/card?name=noobshooter&tag=2169&region=ap" width="450" alt="Dynamic SVG Stats Card"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vercel_Serverless-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dynamic_SVG-FF4655?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js_API-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+<br/>
+
+[View Source →](https://github.com/hritesh94/valorant-tracker)
 
 </div>
 
