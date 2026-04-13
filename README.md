@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+affordable+robots+for+everyone+%F0%9F%A4%96;Continual+Learning+%7C+Inverse+Kinematics+%7C+ROS+2;When+the+terminal+closes%2C+the+crosshair+opens+%F0%9F%8E%AF;From+Kolkata+to+the+world+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+affordable+robots+for+everyone+%F0%9F%A4%96;Continual+Learning+%7C+Inverse+Kinematics+%7C+ROS+2;From+Kolkata+to+the+world+%F0%9F%8C%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -111,29 +111,6 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritesh94&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="95%"/>
 </div>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritesh94/hritesh94/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hritesh94/hritesh94/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hritesh94/hritesh94/output/github-snake.svg" width="95%"/>
-</picture>
-</div>
-
----
-
-### 🎮 AFK Mode
-
-<div align="center">
-
-<img src="https://valorant-tracker-nu.vercel.app/api/card?name=noobshooter&tag=2169&region=ap" width="500" alt="Valorant Stats"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=riotgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/PC_Gamer-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -151,7 +128,6 @@ while(alive) {
     eat();
     sleep();
     buildRobots();
-    playValorant();
     repeat();
 }
 ```
