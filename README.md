@@ -92,7 +92,7 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 | 🔑 | [**Key-Value Bottleneck**](https://github.com/hritesh94/experiments_discrete_key_value_bottleneck) | Reproduced KVB toy experiments, proposed novel double-layer meta-key architecture |
 | 💡 | **Laser Communication** | Li-Fi prototype — ESP8266, laser module & photodiode for optical data transfer |
 | 🌐 | **Dev Overflow** | Full-stack Q&A forum — Next.js, Firebase auth, MongoDB, real-time updates |
-| 🏨 | **The Wild Oasis** | Hotel booking website — Next.js, Supabase, Framer Motion animations |
+| 🎮 | [**Valorant Stats Card**](https://github.com/hritesh94/valorant-stats-card) | Serverless SVG card generator — Vercel API, dynamic rank-based theming |
 
 </div>
 
@@ -125,13 +125,7 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRqcHFhOGRycjZqaXVuZ2F6dHg3ZTFtMGU5cjFwOWdtdHd4dW5jdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3kPDmoWdBpQPNhCnUG/giphy.gif" width="180" alt="gaming gif"/>
-## 🎯 My Valorant Stats
-## 🎮 Valorant Tracker API Project
-
-I built a dynamic Valorant stats card using a custom API deployed on Vercel.  
-It fetches player stats and renders them as a shareable card.
-![My Valorant Card](https://valorant-tracker-nu.vercel.app/api/card?name=noobshooter&tag=2169&region=ap)
+<img src="https://valorant-tracker-nu.vercel.app/api/card?name=noobshooter&tag=2169&region=ap" width="500" alt="Valorant Stats"/>
 
 <br/><br/>
 
