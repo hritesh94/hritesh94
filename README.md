@@ -126,6 +126,12 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRqcHFhOGRycjZqaXVuZ2F6dHg3ZTFtMGU5cjFwOWdtdHd4dW5jdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3kPDmoWdBpQPNhCnUG/giphy.gif" width="180" alt="gaming gif"/>
+## 🎯 My Valorant Stats
+## 🎮 Valorant Tracker API Project
+
+I built a dynamic Valorant stats card using a custom API deployed on Vercel.  
+It fetches player stats and renders them as a shareable card.
+![My Valorant Card](https://valorant-tracker-nu.vercel.app/api/card?name=YOURNAME&tag=YOURTAG&region=ap)
 
 <br/><br/>
 
