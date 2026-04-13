@@ -1,5 +1,4 @@
 [![@hritesh's Holopin board](https://holopin.me/hritesh)](https://holopin.io/@hritesh)
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hritesh%20Goldar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Robotics%20%7C%20Embedded%20Systems%20%7C%20AI&descAlignY=55&descSize=18" width="100%"/>
@@ -7,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+affordable+robots+for+everyone+%F0%9F%A4%96;Continual+Learning+%7C+Inverse+Kinematics+%7C+ROS+2;Coder+by+day%2C+Valorant+player+by+night+%F0%9F%8E%AE;From+Kolkata+to+the+world+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+affordable+robots+for+everyone+%F0%9F%A4%96;Continual+Learning+%7C+Inverse+Kinematics+%7C+ROS+2;When+the+terminal+closes%2C+the+crosshair+opens+%F0%9F%8E%AF;From+Kolkata+to+the+world+%F0%9F%8C%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -25,7 +24,6 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 - 💡 Engineered a **laser-based Li-Fi prototype**
 - 📡 Researched **OFDM/PAPR reduction**
 - 🎯 Learning: **ROS 2** · **Gazebo** · **SLAM**
-- 🎮 When not coding: **Valorant** grinder
 
 📍 Kolkata, India
 🎓 B.Tech ECE @ HIT Kolkata (2021–2025)
@@ -123,21 +121,16 @@ Aspiring roboticist on a mission to make robotic prosthetics accessible for diff
 
 ---
 
-### 🎮 Off-Duty
+### 🎮 AFK Mode
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRqcHFhOGRycjZqaXVuZ2F6dHg3ZTFtMGU5cjFwOWdtdHd4dW5jdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" alt="gaming gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRqcHFhOGRycjZqaXVuZ2F6dHg3ZTFtMGU5cjFwOWdtdHd4dW5jdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3kPDmoWdBpQPNhCnUG/giphy.gif" width="180" alt="gaming gif"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=riotgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/PC_Gaming-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/TUF_A15-000000?style=for-the-badge&logo=asus&logoColor=white"/>
-
-<br/>
-
-*Headshots in Valorant, breakthroughs in robotics — same precision, different arena.*
+<img src="https://img.shields.io/badge/PC_Gamer-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 
 </div>
 
