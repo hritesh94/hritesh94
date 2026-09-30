@@ -126,7 +126,6 @@ I'm a roboticist on a mission to make **robotic prosthetics affordable and acces
   <img src="https://raw.githubusercontent.com/hritesh94/hritesh94/output/github-snake.svg" width="95%" alt="Snake eating my contributions"/>
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hritesh94&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="95%" alt="Contribution graph"/>
 
 </div>
 
